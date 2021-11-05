@@ -1,0 +1,17 @@
+{
+  "name": "ableton-autoplay",
+  "version": "1.0.0",
+  "description": "Send out OSC to automatically play a scene from Ableton",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fs-extra": "^8.1.0",
+    "open": "^7.0.0",
+    "robotjs": "^0.5.1"
+  }
+}
